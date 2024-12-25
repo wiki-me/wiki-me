@@ -1,4 +1,4 @@
-[![wiki-me profile views](https://u8views.com/api/v1/github/profiles/81769805/views/day-week-month-total-count.svg)](https://u8views.com/github/wiki-me)
+[![wiki-me profile views](https://u8views.com/api/v1/github/profiles/68199012/views/day-week-month-total-count.svg)](https://u8views.com/github/wiki-me) 
 
 <!--
 **wiki-me/wiki-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
